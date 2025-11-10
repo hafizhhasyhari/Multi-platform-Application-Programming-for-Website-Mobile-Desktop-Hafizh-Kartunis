@@ -1,21 +1,16 @@
-# Multi-platform-Application-Programming-for-Website-Mobile-Desktop-Hafizh-Kartunis
-# 📱💻🌐 Pemrograman Aplikasi Lintas Platform (Multi-platform)
-- by : Hafizh Hilman Asyhari 
-- Instagram : @hafizhhasyhari
-- Web : 
-- Country : Indonesia
+# 📱💻🌐 Pemrograman Aplikasi Multi-platform
 
 <div align="center">
 
-![Multi-platform Banner](https://example.com/banner.png) [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white)](https://flutter.dev)
+![Multi-platform Banner](📸_media/images/banner.png) [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart&logoColor=white)](https://dart.dev)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Aktif-success.svg)]()
 [![Studi Kasus](https://img.shields.io/badge/Studi_Kasus-Mobile%2C%20Web%2C%20Desktop-purple.svg)]()
 
 **📚 Dokumentasi lengkap perjalanan belajar 16 minggu mata kuliah Pemrograman Aplikasi Multi-platform.**
 
-[📖 Silabus Lengkap (16 Minggu)](SYLLABUS.md) • [🚀 Panduan Memulai](#-panduan-memulai) • [📂 Struktur Repo](#-struktur-repositori) • [🎯 Studi Kasus](#-studi-kasus-utama)
+[📖 Silabus Lengkap (13 Komponen)](SYLLABUS.md) • [🚀 Panduan Memulai](#-panduan-memulai) • [📂 Struktur Repo](#-struktur-repositori) • [💡 Proyek Utama](#-konten-mata-kuliah-studi-kasus)
 
 </div>
 
@@ -23,38 +18,56 @@
 
 ## 🎯 Tentang Repositori Ini
 
-Selamat datang! Repositori ini adalah jurnal pembelajaran, portofolio, dan *sandbox* saya untuk mata kuliah **Pemrograman Aplikasi Multi-platform**. 
+Selamat datang! Repositori ini adalah jurnal pembelajaran, portofolio, dan *sandbox* saya untuk mata kuliah **Pemrograman Aplikasi Multi-platform**.
 
-Tujuan utama saya adalah menguasai pengembangan aplikasi yang dapat berjalan di **Mobile (iOS/Android)**, **Web**, dan **Desktop (Windows/macOS/Linux)** menggunakan satu *codebase* tunggal.
+Tujuan utama saya adalah menguasai pengembangan aplikasi yang dapat berjalan di **Mobile (iOS/Android)**, **Web**, dan **Desktop (Windows/macOS/Linux)** menggunakan satu *codebase* tunggal dengan Flutter.
 
-### 🌟 Fokus Utama Pembelajaran:
+### 🌟 Apa yang Ada di Dalam?
 
-* 📘 **Dart & Flutter:** Menguasai dasar-dasar bahasa Dart dan *widget-based UI* Flutter.
-* 📱 **Mobile + Web:** Membangun aplikasi yang responsif dan adaptif.
-* 💻 **Desktop Integration:** Memahami keunikan platform desktop (file system, windowing).
-* 🌐 **Full Stack:** Mengintegrasikan *frontend* multi-platform dengan *backend* (Firebase/Supabase).
-* 🚀 **Arsitektur:** Menerapkan pola manajemen state (Riverpod) dan *Clean Architecture*.
+Repositori ini disusun berdasarkan **13 Komponen Pembelajaran Mingguan** (lihat `SYLLABUS.md`):
+
+* 📘 **Materi Kuliah:** Catatan teori dan konsep inti per minggu.
+* ⚙️ **Praktikum Lab:** Kode implementasi praktikum *hands-on*.
+* 🤸 **Latihan Mandiri:** Solusi untuk tantangan dan latihan tambahan.
+* 📸 **Pameran (Showcase):** *Screenshot* dan GIF dari hasil kerja mingguan.
+* 💡 **Proyek Studi Kasus:** 3 proyek utama sebagai portofolio.
+* 🧪 **Penelitian & Riset:** Tinjauan paper dan perbandingan teknologi.
+* 🏛️ **Proyek Bisnis & HAKI:** Studi kasus dunia nyata dan aset IP yang unik.
+* 📝 **Catatan & Refleksi:** Jurnal pembelajaran pribadi.
+* 📜 **Inspirasi:** Kumpulan petuah motivasi dan ide naskah.
+* 🌍 **Pengabdian Masyarakat:** Ide dan prototipe untuk aplikasi sosial.
+* 🛠️ **Reusable Tools:** *Widget*, *snippet*, dan *template* yang dapat digunakan kembali.
 
 ---
 
-## 🎯 Studi Kasus Utama
+## 💡 Konten Mata Kuliah (Studi Kasus)
 
-Mata kuliah ini berfokus pada 3 proyek studi kasus utama untuk membangun portofolio yang solid:
+Perkuliahan ini dibagi menjadi 3 proyek studi kasus utama:
 
-1.  **Studi Kasus 1: Aplikasi Mobile + Website (Minggu 1-7)**
-    * **Proyek:** Aplikasi "Digital Business Card" atau Portofolio Personal.
-    * **Platform:** Mobile (Android/iOS) dan Web.
-    * **Fokus:** *Responsive Layouts* dan *State Management* dasar.
+### 📘 Bagian 1: Studi Kasus Mobile + Web (Minggu 1-7)
+Membangun aplikasi yang responsif di HP dan Browser.
+* **Proyek:** "Digital Business Card" / Portofolio Personal.
+* **Topik:** Dasar Dart & Flutter, Layout (Row, Column, Stack), Navigasi, Desain Responsif (`MediaQuery`, `LayoutBuilder`), State Management (Riverpod), HTTP & API.
 
-2.  **Studi Kasus 2: Aplikasi Website + Desktop + Mobile (Minggu 8-12)**
-    * **Proyek:** Aplikasi "Simple Inventory" atau "Task Management".
-    * **Platform:** Mobile, Web, dan Desktop.
-    * **Fokus:** Sinkronisasi data (via Firebase/Supabase) dan fitur spesifik desktop.
+**[📂 Lihat Materi →](📘_materi-kuliah/) | [⚙️ Lihat Lab →](⚙️_praktikum-lab/) | [💡 Lihat Proyek 1 →](💡_proyek-studi-kasus/1_mobile_web_portfolio/)**
 
-3.  **Studi Kasus 3: Aplikasi Desktop + Website (Minggu 13-16)**
-    * **Proyek:** Proyek Akhir - "Dashboard Analitik" atau "Aplikasi SaaS Internal".
-    * **Platform:** Fokus utama pada Web (Admin) dan Desktop (Power User).
-    * **Fokus:** Arsitektur yang kokoh, *Method Channels*, dan *Deployment*.
+---
+
+### 🧠 Bagian 2: Studi Kasus Trifecta (Mobile + Web + Desktop) (Minggu 8-12)
+Mengintegrasikan ketiga platform dengan backend *real-time*.
+* **Proyek:** "Simple Inventory" / Aplikasi Manajemen Tugas.
+* **Topik:** Pengenalan Flutter Desktop, Integrasi Backend (Firebase/Supabase), Autentikasi, Database Real-time (Firestore), File Storage.
+
+**[📂 Lihat Materi →](📘_materi-kuliah/) | [⚙️ Lihat Lab →](⚙️_praktikum-lab/) | [💡 Lihat Proyek 2 →](💡_proyek-studi-kasus/2_trifecta_inventory/)**
+
+---
+
+### 🧬 Bagian 3: Studi Kasus Lanjutan (Desktop + Web) (Minggu 13-16)
+Fokus pada arsitektur yang kokoh dan fitur spesifik platform.
+* **Proyek:** "Dashboard Analitik" / Aplikasi SaaS Internal.
+* **Topik:** Clean Architecture, State Management Lanjutan, Platform Channels (MethodChannel), Testing (Unit, Widget), CI/CD & Deployment.
+
+**[📂 Lihat Materi →](📘_materi-kuliah/) | [⚙️ Lihat Lab →](⚙️_praktikum-lab/) | [💡 Lihat Proyek 3 →](💡_proyek-studi-kasus/3_final_desktop_web_dashboard/)**
 
 ---
 
@@ -63,15 +76,15 @@ Mata kuliah ini berfokus pada 3 proyek studi kasus utama untuk membangun portofo
 ### Prasyarat
 * Memahami dasar-dasar OOP (Object-Oriented Programming).
 * Git & GitHub.
-* Flutter SDK (v3.x atau lebih baru).
+* **Flutter SDK** (v3.x atau lebih baru).
 * VS Code atau Android Studio.
-* `flutter doctor` berjalan tanpa *error* fatal.
+* Pastikan `flutter doctor` berjalan tanpa *error* fatal.
 
 ### Instalasi & Menjalankan
 
 1.  **Clone repositori ini**
     ```bash
-    git clone [https://github.com/](https://github.com/)[USERNAME_ANDA]/pemrograman-multi-platform.git
+    git clone [https://github.com/](https://github.com/)hafizhhasyhari/pemrograman-multi-platform.git
     cd pemrograman-multi-platform
     ```
 
@@ -86,7 +99,7 @@ Mata kuliah ini berfokus pada 3 proyek studi kasus utama untuk membangun portofo
     # Jalankan di Chrome (Web)
     flutter run -d chrome
 
-    # Jalankan di Desktop
+    # Jalankan di Desktop (misal: windows, macos, linux)
     flutter run -d windows
 
     # Jalankan di emulator (Mobile)
@@ -96,61 +109,93 @@ Mata kuliah ini berfokus pada 3 proyek studi kasus utama untuk membangun portofo
 ---
 
 ## 📂 Struktur Repositori
-'''
 
----
+Struktur folder ini dirancang untuk memetakan langsung ke **13 Komponen Silabus** mingguan.
 
-''' bash
-pemrograman-multi-platform/ 
-│ 
-├── README.md # Halaman utama ini 
-├── SYLLABUS.md # Silabus lengkap 16 minggu (dengan 13 komponen) 
-├── LICENSE 
-├── .gitignore 
-├── pubspec.yaml # File dependensi utama (jika ada root project) 
-│ ├── 📘_materi-kuliah/ 
-│ ├── minggu-01-introduction/ 
-│ ├── minggu-02-dart-basics/ 
-│ └── ... (Materi per minggu) 
-│ ├── ⚙️_praktikum-lab/ 
-│ ├── lab-01-setup-hello-world/ 
-│ ├── lab-02-basic-layouts/ 
-│ ├── lab-03-responsive-web/ 
-│ └── ... (Kode praktikum per minggu) 
-│ ├── 💡_proyek-studi-kasus/ 
-│ ├── proyek-01-mobile-web/ # Studi Kasus 1 
-│ ├── proyek-02-trifecta/ # Studi Kasus 2 
-│ └── proyek-akhir-final/ # Proyek Final (Studi Kasus 3) 
-│ ├── 🧪_penelitian-riset/ 
-│ ├── paper-reviews/ # Tinjauan paper (Flutter vs React Native, dll) 
-│ ├── performance-benchmarks/ # Hasil uji performa 
-│ └── theoretical-notes/ 
-│ ├── 🏛️_bisnis-dan-ip/ 
-│ ├── business-case-studies/ # Analisis aplikasi dunia nyata 
-│ ├── ip-assets-log/ # Catatan aset unik / potensi HAKI 
-│ └── monetization-ideas/ 
-│ ├── 🌍_pengabdian-masyarakat/ 
-│ ├── social-app-ideas/ # Kumpulan ide aplikasi sosial 
-│ └── proposal-drafts/ 
-│ ├── 🛠️_reusable-tools/ 
-│ ├── widgets/ # Kumpulan widget kustom (e.g., ResponsiveLayout) 
-│ ├── snippets/ # Potongan kode yang sering dipakai 
-│ ├── templates/ # Template file (e.g., service, model) 
-│ └── scripts/ # Script otomatisasi 
-│ ├── 📓_catatan-dan-naskah/ 
-│ ├── refleksi-mingguan/ # Catatan & refleksi pribadi 
-│ ├── ide-naskah-film/ # Kumpulan ide naskah (Komponen 11) 
-│ └── kutipan-motivasi/ # Kumpulan nasihat (Komponen 10) 
-│ └── media/ 
-└── images/ # Gambar untuk README dan dokumentasi
-'''
-
-📫 **Mari Terhubung:**
-* [Nama Anda]
-* [Link LinkedIn/Portfolio Anda]
-
-> "The magic is not in the platform, but in the problem you solve for the person using it."
-
-2. Draf SYLLABUS.md (Silabus 16 Minggu)
-Ini adalah konten untuk file SYLLABUS.md Anda, yang berisi 13 komponen wajib untuk setiap minggu.
-
+```bash
+pemrograman-multi-platform/
+│
+├── README.md                   # Halaman utama ini
+├── SYLLABUS.md                 # Silabus lengkap 16 minggu (dengan 13 komponen)
+├── LICENSE
+├── .gitignore
+├── pubspec.yaml                # File dependensi utama (jika ada root project)
+│
+├── 📘_materi-kuliah/              # 1. Materi
+│   ├── minggu-01-introduction/
+│   │   ├── notes.md
+│   │   └── slides.pdf
+│   ├── minggu-02-dart-basics/
+│   └── ... (dan seterusnya untuk 16 minggu)
+│
+├── ⚙️_praktikum-lab/               # 2. Praktik (Lab)
+│   ├── lab-01-setup-hello-world/
+│   │   ├── lib/
+│   │   └── pubspec.yaml
+│   ├── lab-02-basic-layouts/
+│   └── ... (Project Flutter mandiri per lab)
+│
+├── 🤸_latihan-mandiri/           # 3. Latihan Mandiri
+│   ├── latihan-01-kalkulator-ui/
+│   ├── latihan-02-todo-list-state/
+│   └── ...
+│
+├── 📸_pameran-showcase/          # 4. Pameran (Showcase hasil)
+│   ├── minggu-01-hello-multiplatform.gif
+│   ├── minggu-03-instagram-clone.png
+│   └── ... (Screenshot, GIF, atau video pendek)
+│
+├── 💡_proyek-studi-kasus/         # 5. Project (Kontribusi ke proyek akhir)
+│   ├── 1_mobile_web_portfolio/     # Studi Kasus 1 (Mobile + Web)
+│   │   ├── lib/
+│   │   ├── web/
+│   │   └── README.md
+│   ├── 2_trifecta_inventory/       # Studi Kasus 2 (Mobile + Web + Desktop)
+│   │   ├── lib/
+│   │   └── README.md
+│   └── 3_final_desktop_web_dashboard/ # Studi Kasus 3 (Desktop + Web)
+│       ├── lib/
+│       └── README.md
+│
+├── 🧪_penelitian-riset/             # 6. Penelitian (Tinjauan akademis)
+│   ├── paper-review-flutter-vs-react-native.md
+│   ├── benchmark-performance-desktop.md
+│   └── notes-clean-architecture.md
+│
+├── 🏛️_bisnis-dan-ip/              # 7. Business Projects & 8. Karya Seni / IP
+│   ├── studi-kasus-bisnis/
+│   │   ├── analisis-app-bmw.md
+│   │   └── ide-monetisasi-proyek-inventory.md
+│   └── aset-haki/
+│       ├── widget-kustom-glassmorphism.dart
+│       └── diagram-arsitektur-proyek-akhir.png
+│
+├── 📝_catatan-jurnal/             # 9. Catatan (Refleksi pribadi)
+│   ├── refleksi-minggu-01.md
+│   ├── refleksi-minggu-02.md
+│   └── ...
+│
+├── 📜_inspirasi/                  # 10. Nasihat / Petuah & 11. Naskah
+│   ├── koleksi-petuah-motivasi.md
+│   └── ide-naskah-film/
+│       ├── 01-detektif-api.md
+│       └── 02-state-jantung.md
+│
+├── 🌍_pengabdian-masyarakat/      # 12. Pengabdian Masyarakat (Ide aplikasi sosial)
+│   ├── ide-aplikasi-bank-sampah.md
+│   ├── ide-aplikasi-stok-darah-pmi.md
+│   └── ...
+│
+├── 🛠️_reusable-tools/             # 13. Reusable Tools
+│   ├── widgets/                  # Widget kustom (e.g., ResponsiveLayout)
+│   ├── services/                 # Class service (e.g., AuthService, FirestoreService)
+│   ├── templates/                # Template file (e.g., riverpod_provider_template.dart)
+│   └── snippets/                 # Potongan kode VS Code
+│
+├── 📸_media/                     # Aset media untuk dokumentasi
+│   └── images/
+│       └── banner.png            # Banner untuk README ini
+│
+└── 🤝_kontribusi/                # Pedoman kontribusi (jika open source)
+    ├── CONTRIBUTING.md
+    └── CODE_OF_CONDUCT.md
