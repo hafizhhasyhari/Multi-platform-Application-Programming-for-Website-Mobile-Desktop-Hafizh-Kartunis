@@ -49,7 +49,7 @@ Membangun aplikasi yang responsif di HP dan Browser.
 * **Proyek:** "Digital Business Card" / Portofolio Personal.
 * **Topik:** Dasar Dart & Flutter, Layout (Row, Column, Stack), Navigasi, Desain Responsif (`MediaQuery`, `LayoutBuilder`), State Management (Riverpod), HTTP & API.
 
-**[📂 Lihat Materi →](Materi Kuliah/) | [⚙️ Lihat Lab →](⚙️_praktikum-lab/) | [💡 Lihat Proyek 1 →](💡_proyek-studi-kasus/1_mobile_web_portfolio/)**
+**[📂 Lihat Materi →](Materi-Kuliah/) | [⚙️ Lihat Lab →](⚙️_praktikum-lab/) | [💡 Lihat Proyek 1 →](💡_proyek-studi-kasus/1_mobile_web_portfolio/)**
 
 ---
 
@@ -58,7 +58,7 @@ Mengintegrasikan ketiga platform dengan backend *real-time*.
 * **Proyek:** "Simple Inventory" / Aplikasi Manajemen Tugas.
 * **Topik:** Pengenalan Flutter Desktop, Integrasi Backend (Firebase/Supabase), Autentikasi, Database Real-time (Firestore), File Storage.
 
-**[📂 Lihat Materi →](Materi Kuliah/) | [⚙️ Lihat Lab →](⚙️_praktikum-lab/) | [💡 Lihat Proyek 2 →](💡_proyek-studi-kasus/2_trifecta_inventory/)**
+**[📂 Lihat Materi →](Materi-Kuliah/) | [⚙️ Lihat Lab →](⚙️_praktikum-lab/) | [💡 Lihat Proyek 2 →](💡_proyek-studi-kasus/2_trifecta_inventory/)**
 
 ---
 
